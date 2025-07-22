@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working on **Full-Stack Web Development**
 - 🧠 Constantly learning: **React**, **Next.js**, **TailwindCSS**, **Node.js**, and **Python**
-- 🛠 Creator of **[Aromantial](https://aromantial.mx/)** – e-commerce for perfumes & decants
+- 🛠 Creator of **[Aromantial](https://aromantial.com/)** – e-commerce for perfumes & decants
 - 🧮 Working on **[TuCash Finance](https://tucash-finance.vercel.app)**, a personal and business finance manager
 - 🎮 Exploring content creation on **YouTube** with tech & gaming
 
