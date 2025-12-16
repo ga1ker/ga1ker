@@ -1,67 +1,88 @@
-<h1 align="center">Hi 👋, I'm Gadiel Alcazar</h1>
-<h3 align="center">🌐 Full-Stack Web Developer | Passionate about building useful digital experiences</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" width="300"/>
-</p>
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
----
+# 👋 Hi, I'm Gadiel Alcazar
 
-### 🚀 About Me
+### 🌐 Full-Stack Web Developer | Building Digital Experiences
 
-- 🌱 I’m currently working on **Full-Stack Web Development**
-- 🧠 Constantly learning: **React**, **Next.js**, **TailwindCSS**, **Node.js**, and **Python**
-- 🛠 Creator of **[Aromantial](https://aromantial.com/)** – e-commerce for perfumes & decants
-- 🧮 Working on **[TuCash Finance](https://tucash-finance.vercel.app)**, a personal and business finance manager
-- 🎮 Exploring content creation on **YouTube** with tech & gaming
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width="400"/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ga1ker&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/ga1ker)
+
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="TailwindCSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-</p>
+
+- 🛠 **Creator** of [Aromantial](https://aromantial.com/) – Premium perfumes & decants e-commerce
+- 💰 **Building** [TuCash Finance](https://tucash-finance.vercel.app) – Personal & business finance manager
+- 🎮 **Content creator** on [YouTube](https://www.youtube.com/@Galkerelmejoryoutuberpro) – Tech & gaming
+- 🧠 **Always learning** new technologies to build better products
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ga1ker&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ga1ker&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ga1ker&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
 
----
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-0065B0?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🔗 Connect with me
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gadiel-alcazar-bernal-281370299/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/gadiel.ab/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@Galkerelmejoryoutuberpro" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" alt="YouTube"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ga1ker&label=Profile%20views&color=0e75b6&style=flat" alt="ga1ker" />
-</p>
+</div>
 
 ---
 
-<!-- Signature -->
-<p align="center">💻 Made with ❤️ by <a href="https://github.com/ga1ker" target="_blank">Gadiel Alcazar</a></p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ga1ker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9F7AEA&icon_color=9F7AEA&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ga1ker&theme=tokyonight&hide_border=true&background=0D1117&ring=9F7AEA&fire=9F7AEA&currStreakLabel=9F7AEA&border_radius=10" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ga1ker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9F7AEA&text_color=FFFFFF&border_radius=10" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ga1ker&theme=high-contrast&bg_color=0D1117&color=9F7AEA&line=667EEA&point=9F7AEA&area=true&hide_border=true&border_radius=10" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gadiel-alcazar-bernal-281370299/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gadiel.ab/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Galkerelmejoryoutuberpro)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ga1ker)
+
+</div>
+
+---
+
+<div align="center">
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+
+**Programando con [Gadiel Alcazar](https://github.com/ga1ker)**
+
+</div>
