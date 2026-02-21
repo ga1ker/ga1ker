@@ -18,7 +18,7 @@
 
 
 - 🛠 **Creator** of [Aromantial](https://aromantial.com/) – Premium perfumes & decants e-commerce
-- 💰 **Building** [TuCash Finance](https://tucash-finance.vercel.app) – Personal & business finance manager
+- 💰 **Creator** of [TuCash Finance](https://tucash-finance.vercel.app) – Personal & business finance manager
 - 🎮 **Content creator** on [YouTube](https://www.youtube.com/@Galkerelmejoryoutuberpro) – Tech & gaming
 - 🧠 **Always learning** new technologies to build better products
 
