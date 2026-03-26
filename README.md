@@ -21,6 +21,7 @@
 - 💰 **Creator** of [TuCash Finance](https://tucash-finance.vercel.app) – Personal & business finance manager
 - 🎮 **Content creator** on [YouTube](https://www.youtube.com/@Galkerelmejoryoutuberpro) – Tech & gaming
 - 🧠 **Always learning** new technologies to build better products
+- 🤖 **Curious** about new technologies like AI and configuring agents with OpenClaw. 🦞
 
 ---
 
