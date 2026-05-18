@@ -1,11 +1,5 @@
 <div align="center">
 
-<p style="font-size: 1em; line-height: 1.6;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&width=700&lines=Full-Stack+Developer;Always+learning;Building+the+future&color=9F7AEA" alt="Typing SVG" />
-</p>
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6C63FF,9F7AEA,E91E63&height=100&section=header&fontSize=60&fontColor=FFFFFF)
-
 # 👋 Hola, soy Gadiel Alcazar
 
 ![Status](https://img.shields.io/badge/Status-Available_for_hire-success?style=for-the-badge)
@@ -27,9 +21,9 @@
 | 🎯 **Enfoque** | 🏢 **Empresas** | 🔧 **Pasión** |
 |:---:|:---:|:---:|
 | Full-Stack Developer | 💫 **Aromantial** | 🚀 Innovación |
-| 10+ años experiencia | 💰 **TuCash Finance** | 🤖 Automatización |
-| React & Next.js | 🎮 **YouTube Tech** | 📊 Data-driven |
-| Node.js | 🌐 **OpenClaw Agent** | 🎨 UI/UX |
+| 10+ años experiencia | 💰 **TuCash Finance** | 📊 Data-driven |
+| React & Next.js | 🎮 **YouTube Tech** | 🎨 UI/UX |
+| Node.js | 🌐 **OpenClaw Agent** | 🤖 Automatización |
 
 </div>
 
@@ -41,7 +35,7 @@
 |:-----------|:----------------|:--------|
 | **Aromantial** | E-commerce de perfumes y decants premium | [ aromantial.com ](https://aromantial.com/) |
 | **TuCash Finance** | Gestor de finanzas personales y empresariales | [ tucash-finance.vercel.app ](https://tucash-finance.vercel.app) |
-| **posy** *(en desarrollo)* 🆕 | Plataforma innovadora — **próximamente** 🌟 | _Próximamente_ |
+| **posy** 🆕 *(en producción)* | Sistema de punto de venta (POS) moderno y eficiente — gestión de ventas, inventario y reportes en una sola plataforma | [ posy-frontend.vercel.app ](https://posy-frontend.vercel.app/) |
 | **OpenClaw Agent** | Agente IA integrado en mi workflow diario | [ openclaw.ai ](https://openclaw.ai) |
 
 </div>
@@ -57,7 +51,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0065B0?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -73,18 +67,15 @@
 ![PHP](https://img.shields.io/badge/PHP-4f5b93?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
-### 🔧 Herramientas & DevOps
+### 🔧 Herramientas
 
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -118,7 +109,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Galkerelmejoryoutuberpro)
 [![Twitch](https://img.shields.io/badge/Twitch-6441A5?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/galkker)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ga1ker)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
 
 **▶️ Suscríbete para tutoriales de programación, reviews de tecnología y gaming!**
 
@@ -132,23 +122,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gadiel-alcazar-bernal-281370299/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gadiel.ab/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
-
-</div>
-
----
-
-## 🧠 Intereses Actuales
-
-<div align="center">
-
-| Categoría | Enfoque |
-|:---|:---|
-| **🤖 IA/ML** | OpenClaw Agents, LLMs, Automatización |
-| **🛠️ Herramientas** | GitHub Copilot, V0.dev, Cursor IDE |
-| **📚 Aprendiendo** | Web3, Rust, Serverless Architectures |
-| **🎮 Gaming** | Speedrunning, Indie Games, Tech Reviews |
-| **🎵 Música** | Producción, Synthesizers, Sound Design |
 
 </div>
 
